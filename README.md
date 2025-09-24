@@ -1,3 +1,8 @@
+# AWS links
+
+- [CloudFront distribution](https://d3nvqppy8bkguw.cloudfront.net)
+- [S3 bucket](https://deploywebappstack-deploymentmaksymmawscloudxjsbuck-q9vaxsgagvv0.s3.eu-central-1.amazonaws.com/index.html)
+
 # React-shop-cloudfront
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
